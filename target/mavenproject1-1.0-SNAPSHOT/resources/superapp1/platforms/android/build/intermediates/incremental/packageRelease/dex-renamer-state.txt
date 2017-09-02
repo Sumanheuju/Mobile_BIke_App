@@ -1,0 +1,4 @@
+#Wed Aug 16 14:53:29 NPT 2017
+base.0=/Users/sumanheuju/NetBeansProjects/mavenproject1/MavenHibernate/src/main/webapp/resources/superapp1/platforms/android/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/sumanheuju/NetBeansProjects/mavenproject1/MavenHibernate/src/main/webapp/resources/superapp1/platforms/android/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
